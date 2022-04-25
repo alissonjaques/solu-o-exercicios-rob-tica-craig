@@ -1,3 +1,0 @@
-Para leitura dos algoritmos é melhor abrir os arquivos no editor de texto convencional ou no notepad++.
-
-Os scripts foram criados nesses editores de texto e executados depois no MATLAB (no MATLAB a leitura dos comentários pode ser prejudicada, porque o mesmo não interpreta caracteres especiais nos comentários)
